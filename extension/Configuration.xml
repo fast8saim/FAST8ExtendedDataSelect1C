@@ -30,28 +30,28 @@
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
 				<xr:ObjectId>95642391-6558-4298-b90e-3f8bba2bb0c1</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:PropertyState>
-				<xr:Property>ManagedApplicationModule</xr:Property>
-				<xr:State>Extended</xr:State>
-			</xr:PropertyState>
 		</InternalInfo>
 		<Properties>
-			<Name>FAST8ExtendedDataSelect</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>FAST8ExtendedDataSelect1C</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Расширение обработки выбора данных в поле ввода (FAST8)</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>ru1</v8:lang>
+					<v8:content>FAST8 Расширение обработки получения данных выбора</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
-			<ObjectBelonging>Adopted</ObjectBelonging>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>false</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>fast8DS_</NamePrefix>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_14</ConfigurationExtensionCompatibilityMode>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>FAST8.RU</Vendor>
-			<Version>2023_03_13</Version>
+			<Version>2023_03_23</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -61,11 +61,16 @@
 					<v8:content>fast8.ru</v8:content>
 				</v8:item>
 			</VendorInformationAddress>
-			<ConfigurationInformationAddress/>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>ru1</v8:lang>
+					<v8:content>https://fast8.ru/FAST8ExtendedDataSelect1C/</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>fast8DS_ОбработкаВыбора</CommonModule>
+			<CommonModule>fast8DS_ОбработкаПолученияДанныхВыбора</CommonModule>
 			<CommonModule>fast8DS_ПовторногоИспользованияПереопределяемый</CommonModule>
 			<CommonModule>fast8DS_ПодпискиНаСобытия</CommonModule>
 			<EventSubscription>fast8DS_ПодпискаВыборБизнесПроцесс</EventSubscription>
