@@ -7,7 +7,7 @@
 		<Metadata name="CommonModule.fast8DS_ПовторногоИспользованияПереопределяемый.Module" id="3ed511f8-0656-4819-9bb1-f76c9a948b7b.0" configVersion="c91dca83ead8e8bce4112c0e1458f8d817d80eeb"/>
 		<Metadata name="CommonModule.fast8DS_ПодпискиНаСобытия" id="dd2bb978-aba4-4059-8a94-d83faf8571e3" configVersion="58522ff113f25098a128a00b3d4b7624e2e26947"/>
 		<Metadata name="CommonModule.fast8DS_ПодпискиНаСобытия.Module" id="dd2bb978-aba4-4059-8a94-d83faf8571e3.0" configVersion="18914201db43721b16aeaea5c2521e7b75facffe"/>
-		<Metadata name="Configuration.FAST8ExtendedDataSelect1C" id="f24776d7-7170-4a25-bfa0-cf9551ebeb5d" configVersion="89bc3578ee0e1adbd583b091cdc4c5354e3325ef"/>
+		<Metadata name="Configuration.FAST8ExtendedDataSelect1C" id="f24776d7-7170-4a25-bfa0-cf9551ebeb5d" configVersion="0dc237b60bf5f16e84cafc06be0a278fabe0c483"/>
 		<Metadata name="Configuration.FAST8ExtendedDataSelect1C.ManagedApplicationModule" id="c55b37c1-fd4c-435d-b70b-7827435fd897.6" configVersion="4c0b420363b6ad9b4262463591ba9c31d8a91b33"/>
 		<Metadata name="EventSubscription.fast8DS_ПодпискаВыборБизнесПроцесс" id="68e4495e-3ae2-44e0-a99c-1e182be164c7" configVersion="5d4fa30612ffa74cc8aaecb9a7db465eac85343a"/>
 		<Metadata name="EventSubscription.fast8DS_ПодпискаВыборДокументы" id="2fa19f2e-95d8-48d5-b698-837a6917b761" configVersion="c92ce6577e58bb8d34eb9fd2925d63cab86b85ac"/>
